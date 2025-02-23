@@ -1,10 +1,4 @@
 {
   "mappings": [
-    "/content/aem-edge-service/:/",
-    "/content/aem-edge-service/configuration:/.helix/config.json",
-    "/content/aem-edge-service/metadata:/metadata.json"
-  ],
-  "includes": [
-    "/content/aem-edge-service/"
-  ]
+    "/content/aem-edge-service/:/"
 }
